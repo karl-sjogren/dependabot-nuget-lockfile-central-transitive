@@ -1,0 +1,16 @@
+name: 'Build and publish application'
+
+on:
+  push:
+
+jobs:
+  net-restore:
+    name: .NET Restore
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout sources
+      uses: actions/checkout@v4
+
+    - name: Restore NuGet packages
+      run: dotnet restore
