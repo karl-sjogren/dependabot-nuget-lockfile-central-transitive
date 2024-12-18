@@ -1,5 +1,5 @@
 <Project>
   <ItemGroup>
-    <PackageVersion Include="MarkDig" Version="0.38.0" />
+    <PackageVersion Include="MarkDig" Version="0.39.0" />
   </ItemGroup>
 </Project>

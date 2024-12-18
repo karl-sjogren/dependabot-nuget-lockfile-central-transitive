@@ -4,9 +4,9 @@
     "net9.0": {
       "Markdig": {
         "type": "Direct",
-        "requested": "[0.38.0, )",
-        "resolved": "0.38.0",
-        "contentHash": "zKy3JFjQvr1wbuMtbfcZVjNNCIqHxSCjGMq/CBcyNsY/MPsxqcS3o8M7CZ2kcMGGIw5LI2ZZd8rFUaFeV6SvrQ=="
+        "requested": "[0.39.0, )",
+        "resolved": "0.39.0",
+        "contentHash": "3QgYSNxOdxsKPhzGZYUTdLi7kkljfC0ZEJlPNw+MvwVS26VaaMMrUIPm8ywzAKcqSW51Le2/yiHgNZpQoyLt6A=="
       }
     }
   }
